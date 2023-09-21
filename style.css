@@ -12,7 +12,7 @@ body {
    
      /*background: 1color 2image 3repeat 4position 5size*/
    
-     background: url(./bg-mobile.png) no-repeat top center/cover;
+     background: url(./assets/bg-mobile.png) no-repeat top center/cover;
    }
    body *{
      font-family: 'Inter', sans-serif;
